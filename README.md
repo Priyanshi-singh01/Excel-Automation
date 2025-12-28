@@ -13,9 +13,9 @@ This Excel file contains a simple **Data Entry Form** where:
 - Product rate is automatically fetched from a master rate list
 - Amount is calculated automatically
 - Data is stored in a structured table with one click
-
 A **video** is included in this repository that shows the complete process of creating and using the macro.
 
+[Uploading excel automation.mp4…](https://github.com/user-attachments/assets/703bab20-3866-411f-a0f0-93cc85c84130)
 
 
 ## ⚙️ Features
