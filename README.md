@@ -1,7 +1,7 @@
 # Excel-Automation
 Excel Data Entry Automation using VBA Macro Recorder.
-This project demonstrates how to automate a data entry process in Microsoft Excel using the built-in **VBA Macro Recorder**.
 
+This project demonstrates how to automate a data entry process in Microsoft Excel using the built-in **VBA Macro Recorder**.
 The goal of this project is to reduce manual work and show how repetitive Excel tasks can be automated without initially writing VBA code manually.
 
 ---
@@ -13,6 +13,7 @@ This Excel file contains a simple **Data Entry Form** where:
 - Product rate is automatically fetched from a master rate list
 - Amount is calculated automatically
 - Data is stored in a structured table with one click
+  
 A **video** is included in this repository that shows the complete process of creating and using the macro.
 
 [Uploading excel automation.mp4…](https://github.com/user-attachments/assets/703bab20-3866-411f-a0f0-93cc85c84130)
